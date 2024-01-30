@@ -1,8 +1,3 @@
-<style>
-  .center {
-    text-align: center;
-  }
-</style>
 
 👋 Hi, this is Wafiq Ibadullah.
 
